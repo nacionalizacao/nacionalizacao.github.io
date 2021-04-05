@@ -1,6 +1,14 @@
 # Estrutura
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+A Divisão de Nacionalização do Centro Logístico da Aeronáutica (CELOG) é constituída pelas seguintes Subdivisões e Seções:
+
+- NTEC : Subdivisão Técnica
+    - NTGQ : Seção de Controle da Qualidade
+    - NTPJ : Seção de Projeto
+    - NTDM : Seção de Metrologia
+- NCER
+- NTCP
+
 
 ## Commands
 
