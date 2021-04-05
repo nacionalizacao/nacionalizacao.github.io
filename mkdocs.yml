@@ -2,9 +2,9 @@ site_name: Divisão de Nacionalização
 
 nav:
   - Estrutura: index.md
-  - Procedimentos: 
-      - Requisições de ressuprimento: proc/requisicaoRessuprimento.md
-      - Listagem de PTNs: proc/listaPTN.md  
+  - SILOMS:
+      - Requisições de ressuprimento: siloms/requisicaoRessuprimento.md
+      - Listagem de PTNs: siloms/listaPTN.md  
   - Sobre: sobre.md
 
 theme: 
