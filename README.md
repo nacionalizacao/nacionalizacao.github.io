@@ -3,7 +3,7 @@
 Acessar o site:
 https://nacionalizacao.github.io/
 
-# Configuração preliminar do githubpages
+# Configuração preliminar do Github Pages
 
 Settings --> GitHubPages
 

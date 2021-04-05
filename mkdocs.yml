@@ -7,4 +7,7 @@ nav:
       - Listagem de PTNs: proc/listaPTN.md  
   - Sobre: sobre.md
 
-theme: material
+theme: 
+  name: material
+  palette:
+    scheme: slate
