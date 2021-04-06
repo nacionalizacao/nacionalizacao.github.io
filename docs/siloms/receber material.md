@@ -12,3 +12,4 @@ Passos:
 Passos:
 
 1. Atualizar o campo _Empenho_ e clicar em _Executar consulta_
+2. Na ana _Material a Receber_ marcar os itens de interesse e clicar em _Confirmar recebimento_
