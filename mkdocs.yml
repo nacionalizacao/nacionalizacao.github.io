@@ -4,7 +4,7 @@ nav:
   - Estrutura: index.md
   - SILOMS:
       - Listar requisições de ressuprimento: siloms/listar requisicao ressuprimento.md
-      - Requisições de ressuprimento: siloms/receber material.md      
+      - Receber material: siloms/receber material.md      
   - Sobre: sobre.md
 
 theme: 
