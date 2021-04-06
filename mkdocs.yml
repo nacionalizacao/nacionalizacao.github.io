@@ -3,6 +3,7 @@ site_name: Divisão de Nacionalização
 nav:
   - Estrutura: index.md
   - SILOMS:
+      - Listar requisições de ressuprimento: siloms/listar requisicao ressuprimento.md
       - Requisições de ressuprimento: siloms/requisicaoRessuprimento.md
       - Listagem de PTNs: siloms/listaPTN.md  
   - Sobre: sobre.md
@@ -12,3 +13,7 @@ theme:
   language: pt
   palette:
     scheme: slate
+
+markdown_extensions:
+  - admonition
+  - def_list
