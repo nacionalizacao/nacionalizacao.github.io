@@ -9,5 +9,5 @@
 !!! note ""
     SILOMS 11G: Forncedores (SUP7100P)
 
-1. Atualizar o campo _Empenho_ e clicar em _Executar consulta_
+1. Atualizar o campo **_Empenho_** e clicar em **_Executar consulta_**
 2. Na aba **_Material a Receber_** marcar os itens de interesse e clicar em **_Confirmar recebimento_**
