@@ -1,6 +1,6 @@
 # Estrutura
 
-A Divisão de Nacionalização do Centro Logístico da Aeronáutica (CELOG) apresenta a seguinte estrutura funcional:
+A Divisão de Nacionalização (NNAC) é subordinada ao Centro Logístico da Aeronáutica (CELOG) e apresenta a seguinte estrutura funcional:
 
 - Divisão de Nacionalização (NNAC)
     - Subdivisão Técnica (NTEC)
