@@ -9,4 +9,6 @@
 
 !!! note "Informações adicionais"
 
-O arquivo gerado apresenta extensão _txt_, mas o correto seria _csv_, assim, renomeá-lo com a extensão _csv_ antes de ser gerado.
+A extensão exibida para o arquivo é _txt_, mas o correto seria _csv_, assim, renomeá-lo com a extensão _csv_ antes de salvá-lo. O separador utilizado no arquivo _csv_ é o ponto e vírgula ( ; ).
+
+A planilha gerada não é exclusiva para requisições de material nacionalizado, sendo necessário filtrar as linhas cuja coluna __PN__ se inicie por __DCN__.
