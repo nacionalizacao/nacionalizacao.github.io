@@ -3,8 +3,9 @@ site_name: Divisão de Nacionalização
 nav:
   - Estrutura: index.md
   - SILOMS:
-      - Listar requisições de ressuprimento: siloms/listar requisicao ressuprimento.md
-      - Receber material: siloms/receber material.md      
+      - Requisições de ressuprimento: siloms/requisicoes ressuprimento.md
+      - Requisições em emergência: siloms/requisicoes emergencia.md
+      - Recebimento de material: siloms/recebimento material.md      
   - Sobre: sobre.md
 
 theme: 
