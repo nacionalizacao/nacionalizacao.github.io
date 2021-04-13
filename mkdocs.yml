@@ -5,6 +5,9 @@ nav:
   - SILOMS:
       - Requisições de ressuprimento: siloms/requisicoes ressuprimento.md
       - Requisições em emergência: siloms/requisicoes emergencia.md
+      - Valor de referência: 
+          - Histórico: siloms/referencia/valor historico.md
+          - Movimento: siloms/referencia/valor movimento.md
       - Recebimento de material: siloms/recebimento material.md      
   - Sobre: sobre.md
 
