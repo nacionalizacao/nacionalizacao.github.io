@@ -1,1 +1,1 @@
-historico
+Requisições que atingiram o status de _mapa gerado_ e demais status posteriores podem ser utilizadas como referência na estimativa do preço de referência em requisições atuais.
