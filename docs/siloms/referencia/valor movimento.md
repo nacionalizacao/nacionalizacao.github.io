@@ -1,7 +1,7 @@
 !!! note ""
     SILOMS 11G: Análise situacional de PN (SUP0079P)
 
-Na indisponibilidade de requisições atendidas do material de interesse, é possível estimar o seu valor através da análise situcional do PN:
+Na indisponibilidade de requisições atendidas para o material de interesse, é possível que haja registro de cotações anteriores, o que é obtido através da análise situcional do PN:
 
 1. Delimitar o **_PN_** e **_Projeto_**
 2. Clicar na aba **_Estoque_**
