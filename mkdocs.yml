@@ -2,14 +2,17 @@ site_name: Divisão de Nacionalização
 
 nav:
   - Estrutura: index.md
+  - Legislação: legislacao.md
   - SILOMS:
-      - Requisições de ressuprimento: siloms/requisicoes ressuprimento.md
-      - Requisições em emergência: siloms/requisicoes emergencia.md
-      - Valor de referência: 
-          - Histórico: siloms/referencia/valor historico.md
-          - Situacional: siloms/referencia/valor situacional.md
-      - Recebimento de material: siloms/recebimento material.md      
+    - Requisições:
+      - Ressuprimento: siloms/requisicao/requisicoes ressuprimento.md    
+      - Emergência: siloms/requisicao/requisicoes emergencia.md
+    - Valor de referência: 
+        - Histórico: siloms/referencia/valor historico.md
+        - Situacional: siloms/referencia/valor situacional.md
+    - Recebimento de material: siloms/recebimento material.md        
   - Sobre: sobre.md
+  
 
 theme: 
   name: material

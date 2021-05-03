@@ -1,2 +1,8 @@
+Para iniciar localmente:
+mkdocs serve
+
+Abrir o browser no endereço:
+http://127.0.0.1:8000
+
 Manual antigo:
 https://app.gitbook.com/@nnac-celog/s/manual/

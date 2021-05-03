@@ -1,4 +1,4 @@
-Na indisponibilidade de requisições atendidas para o material de interesse, é possível que haja registro de cotações anteriores, o que é obtido através da análise situcional do PN:
+Na indisponibilidade de um histórico de requisições para o material de interesse, é possível que haja registro de cotações anteriores na tela de análise situcional do PN:
 
 !!! note ""
     SILOMS 11G: Análise situacional de PN (SUP0079P)
