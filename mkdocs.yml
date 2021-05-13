@@ -1,9 +1,11 @@
-site_name: Divisão de Nacionalização
+site_name: Divisão de Nacionalização e Qualificação
 
 nav:
   - Estrutura: index.md
-  - Legislação: legislacao.md
-  - Processos: plog/index.md
+  - Legislação: 
+    - MCA & ICA & RICA: legislacao/legislacao.md
+    - NPAs: legislacao/npa/index.md
+    - Processos: legislacao/plog/index.md
   - SILOMS:
     - Requisições:
       - Ressuprimento: siloms/requisicao/requisicoes ressuprimento.md    
