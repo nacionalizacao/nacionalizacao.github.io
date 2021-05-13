@@ -3,6 +3,7 @@ site_name: Divisão de Nacionalização
 nav:
   - Estrutura: index.md
   - Legislação: legislacao.md
+  - Processos: plog/index.md
   - SILOMS:
     - Requisições:
       - Ressuprimento: siloms/requisicao/requisicoes ressuprimento.md    
