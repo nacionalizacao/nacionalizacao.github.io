@@ -1,13 +1,10 @@
-<<<<<<< HEAD
 Para iniciar localmente:
 mkdocs serve
 
 Abrir o browser no endereço:
 http://127.0.0.1:8000
-=======
 Instalação do tema "material"
 pip install mkdocs-material
->>>>>>> bbf052e02b3e551a9e6b756234cda3b682d19542
 
 Manual antigo:
 https://app.gitbook.com/@nnac-celog/s/manual/
