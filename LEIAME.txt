@@ -15,3 +15,8 @@ theme:
   language: pt
   palette:
     scheme: slate
+
+
+
+Actions:
+https://parkererickson.github.io/portfolio/blog/MkDocsCD/
