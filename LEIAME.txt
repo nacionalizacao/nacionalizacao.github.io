@@ -6,6 +6,11 @@ http://127.0.0.1:8000
 Instalação do tema "material"
 pip install mkdocs-material
 
+
+Deploy para o site https://nacionalizacao.github.io
+mkdocs gh-deploy
+
+
 Manual antigo:
 https://app.gitbook.com/@nnac-celog/s/manual/
 
