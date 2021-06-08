@@ -18,5 +18,5 @@ theme:
 
 
 
-Actions:
+Configuração de Actions:
 https://parkererickson.github.io/portfolio/blog/MkDocsCD/
