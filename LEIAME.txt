@@ -1,3 +1,7 @@
+Deploy para o site https://nacionalizacao.github.io
+mkdocs gh-deploy
+
+
 Para iniciar localmente:
 mkdocs serve
 
@@ -7,8 +11,6 @@ Instalação do tema "material"
 pip install mkdocs-material
 
 
-Deploy para o site https://nacionalizacao.github.io
-mkdocs gh-deploy
 
 
 Manual antigo:
