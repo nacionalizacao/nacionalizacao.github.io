@@ -4,7 +4,7 @@
 | ---      | ---     | ---  | --- | --- |
 | PLOG0001A - Gestão de processos logísticos da NNAQ | ---     | ---  | --- | --- |
 | PLOG0002A - Gestão de índices de desempenho | ---     | ---  | --- | --- |
-| PLOG0003A - Gestão de pedido de materia prima | ---     | ---  | --- | --- |
+| PLOG0003A - Gestão de pedido de matéria prima | ---     | ---  | --- | --- |
 | PLOG0004A - Processo técnico de nacionalização | ---     | ---  | --- | --- |
 | PLOG0005A - Alteração de Documentação Técnica | ---     | ---  | --- | --- |
 | PLOG0006A - Gestão de certificação junto ao IFI | ---     | ---  | --- | --- |
