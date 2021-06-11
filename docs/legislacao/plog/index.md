@@ -1,8 +1,8 @@
 **Relação de processos:**
 
-| Processo | Setores | docx | bpm |
+| Processo | Setores | DOC | BPM |
 | ---      | ---     | --- | --- |
-| PLOG0001A - Gestão de processos logísticos da NNAQ | NNAQ <br> NCCP | --- | --- |
+| [PLOG0001A - Gestão de processos logísticos da NNAQ](PLOG0001A.pdf) | DIR <br> DACI <br> NNAQ <br> NCCP | [X](PLOG0001A.docx) | [X](PLOG0001A.bpm) |
 | PLOG0002A - Gestão de índices de desempenho | ---     | --- | --- |
 | PLOG0003A - Gestão de pedido de matéria prima | ---     | --- | --- |
 | PLOG0004A - Processo técnico de nacionalização | ---     | --- | --- |
