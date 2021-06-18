@@ -17,7 +17,7 @@
 | [PLOG0013A - Confecção de RTL para ressuprimento de material nacionalizado](PLOG0013A.pdf) | NTPJ <br> NTCQ <br> NTCP  | [X](PLOG0013A.docx) | [X](PLOG0013A.bpm) | 
 | PLOG0014A - Delimitação de valor de referência de material nacionalizado | ---     | --- | [X](PLOG0014A.bpm) |
 | PLOG0015A - Gestão de Publicações Técnicas | ---     | --- | --- |
-| PLOG0016A - Armazenamento, abertura e anexação em PTN | ---     | --- | --- |
+| PLOG0016A - Abertura e anexação em PTN | NTCP <br> NCCP | --- | [X](PLOG0016A.bpm) |
 | PLOG0017A - Armazenamento e divulgação de PLOG | ---     | --- | --- |
 | PLOG0018A - Armazenamento de arquivo eletrônico de PTN e ADT | ---     | --- | --- |
 | PLOG0019A - Serialização de material nacionalizado | ---     | --- | --- |
