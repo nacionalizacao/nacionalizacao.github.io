@@ -8,11 +8,11 @@
 | PLOG0004A - Processo técnico de nacionalização | ---     | --- | --- |
 | PLOG0005A - Alteração de Documentação Técnica | ---     | --- | --- |
 | PLOG0006A - Gestão de certificação junto ao IFI | ---     | --- | --- |
-| PLOG0007A - Gestão de qualificação de material nacionalizado pela NNAQ | ---     | --- | --- |
+| PLOG0007A - Qualificação de material nacionalizado pela NNAQ | ---     | --- | --- |
 | PLOG0008A - Inspeção de material nacionalizado | ---     | --- | [X](PLOG0008A.bpm) |
 | PLOG0009A - Elaboração de plano de inspeção | NTCQ     | --- | [X](PLOG0009A.bpm) |
 | PLOG0010A - Homologação para produção de material nacionalizado | ---     | --- | --- |
-| PLOG0011A - Homologação de ensaio de controle de qualidade de fornecedor | ---     | --- | [X](PLOG0011A.bpm) |
+| PLOG0011A - Homologação de fornecedor em ensaio de controle de qualidade | ---     | --- | [X](PLOG0011A.bpm) |
 | PLOG0012A - Contratação de fornecimento de material nacionalizado | NTCP <br> OOBT <br> DACI <br> OD <br> FISCAL <br> CAE <br> DIRMAB | --- | [X](PLOG0012A.bpm) |
 | [PLOG0013A - Confecção de RTL para ressuprimento de material nacionalizado](PLOG0013A.pdf) | NTPJ <br> NTCQ <br> NTCP  | [X](PLOG0013A.docx) | [X](PLOG0013A.bpm) | 
 | PLOG0014A - Delimitação de valor de referência de material nacionalizado | ---     | --- | [X](PLOG0014A.bpm) |
