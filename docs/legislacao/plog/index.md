@@ -3,7 +3,7 @@
 | Processo | Setores | DOC | BPM |
 | ---      | ---     | --- | --- |
 | [PLOG0001A - Gestão de processos logísticos da NNAQ](PLOG0001A.pdf) | DIR <br> DACI <br> NNAQ <br> NCCP | [X](PLOG0001A.docx) | [X](PLOG0001A.bpm) |
-| [PLOG0002A - Gestão de índices de desempenho de ressuprimento de material nacionalizado](PLOG0002A.pdf) | ---     | [X](PLOG0002A.docx) | [X](PLOG0002A.bpm) |
+| [PLOG0002A - Gestão de índices de desempenho de ressuprimento de material nacionalizado](PLOG0002A.pdf) | NNAQ <br> NTCP | [X](PLOG0002A.docx) | [X](PLOG0002A.bpm) |
 | [PLOG0003A - Gestão de pedido de matéria prima](PLOG0003A.pdf) | NNAQ     | [X](PLOG0003A.docx) | [X](PLOG0003A.bpm) |
 | PLOG0004A - Processo técnico de nacionalização | ---     | --- | --- |
 | PLOG0005A - Alteração de Documentação Técnica | ---     | --- | --- |
