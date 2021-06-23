@@ -21,5 +21,6 @@
 | PLOG0017A - Armazenamento e divulgação de PLOG | ---     | --- | --- |
 | PLOG0018A - Armazenamento de arquivo eletrônico de PTN e ADT | ---     | --- | --- |
 | PLOG0019A - Serialização de material nacionalizado | ---     | --- | --- |
-| PLOG0020A - Gestão de calibração de equipamentos da NNAQ | ---     | --- | --- |
+| PLOG0020A - Gestão de calibração de equipamentos da NNAQ | NTDM     | --- | [X](PLOG0020A.bpm) |
 | PLOG0021A - Implantação de part number de material nacionalizado em PTN | ---     | --- | --- |
+| PLOG0022A - Compilação de requisições para ressuprimento | NTCP     | --- | [X](PLOG0022A.bpm) |
