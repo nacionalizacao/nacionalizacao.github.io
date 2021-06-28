@@ -21,4 +21,4 @@
 | PLOG0019A - Implantação de número de série de material nacionalizado | NCCA <br> NTPLJ | --- | --- |
 | PLOG0020A - Gestão de calibração de equipamentos da NNAQ | NTDM     | --- | [X](PLOG0020A.bpm) |
 | PLOG0021A - Implantação de part number de material nacionalizado | ---     | --- | --- |
-| [PLOG0022A - Compilação de requisições de ressuprimento](PLOT0022A.pdf) | NTCP | [X](PLOG0022A.docx) | [X](PLOG0022A.bpm) |
+| [PLOG0022A - Compilação de requisições de ressuprimento](PLOG0022A.pdf) | NTCP | [X](PLOG0022A.docx) | [X](PLOG0022A.bpm) |
