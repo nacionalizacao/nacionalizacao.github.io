@@ -18,7 +18,7 @@
 | PLOG0015A - Requisição de Norma Técnica | ---     | --- | [X](PLOG0015A.bpm) |
 | PLOG0016A - Abertura e anexação em PTN | NTCP <br> NCCP | --- | [X](PLOG0016A.bpm) |
 | PLOG0018A - Armazenamento de arquivo eletrônico de PTN e ADT | ---     | --- | --- |
-| PLOG0019A - Serialização de material nacionalizado | ---     | --- | --- |
+| PLOG0019A - Implantação de número de série de material nacionalizado | NCCA <br> NTPLJ | --- | --- |
 | PLOG0020A - Gestão de calibração de equipamentos da NNAQ | NTDM     | --- | [X](PLOG0020A.bpm) |
 | PLOG0021A - Implantação de part number de material nacionalizado | ---     | --- | --- |
-| PLOG0022A - Compilação de requisições para ressuprimento | NTCP     | [X](PLOG0022A.docx) | [X](PLOG0022A.bpm) |
+| [PLOG0022A - Compilação de requisições de ressuprimento](PLOT0022A.pdf) | NTCP | [X](PLOG0022A.docx) | [X](PLOG0022A.bpm) |
