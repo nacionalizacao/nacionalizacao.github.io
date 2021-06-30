@@ -1,9 +1,8 @@
 **Relação de NPAs:**
 
-##### [NNAQ - Processos da Divisão de Nacionalização e Qualificação](NPA-NNAC-01E (NNAC) Rev 2021.docx)
+##### [NNAQ - Processos da Divisão de Nacionalização e Qualificação](NPA-NNAC-01E (NNAQ) Rev 2021.docx)
 ##### [NQUA - Processos da Subdivisão de Qualificação](NPA-NNAC-02E (NQUA) Rev 2021.docx)
 ##### [NTEC - Processos da Subdivisão Técnica](NPA-NNAC-03E (NTEC) Rev 2021.docx)
-##### [NCGQ - Processos da Seção de Garantia Governamental da Qualidade](NPA-NNAQ-04E (NCGQ) Rev 2021.docx)
 ##### [NCCA - Processos da Seção de Catalogação](NPA-NNAC-05E (NCCA) Rev 2021.docx)
 ##### [NCCP - Processos da Seção de Controle de Publicação](NPA-NNAC-06E (NCCP) Rev 2021.docx)
 ##### [NTCP - Processos da Seção de Controle do Pedido](NPA-NNAC-07E (NTCP) Rev 2021.docx)
