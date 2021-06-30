@@ -21,5 +21,5 @@
 | PLOG0018A - Arquivamento de Desenho e ADT | NTPJ | --- | [X](PLOG0018A.bpm) |
 | PLOG0019A - Implantação de número de série de material nacionalizado | NCCA <br> NTPLJ | --- | --- |
 | PLOG0020A - Gestão de calibração de equipamentos da NNAQ | NTDM     | --- | [X](PLOG0020A.bpm) |
-| PLOG0021A - Delimitação de PN de material nacionalizado | NTPJ | --- | --- |
+| PLOG0021A - Delimitação de PN de material nacionalizado | NTPJ | --- | [X](PLOG0021A.bpm) |
 | [PLOG0022A - Compilação de requisições de ressuprimento](PLOG0022A.pdf) | NTCP | [X](PLOG0022A.docx) | [X](PLOG0022A.bpm) |
