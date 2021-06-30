@@ -15,7 +15,7 @@
 | [PLOG0012A - Contratação de fornecimento de material nacionalizado](PLOG0012A.pdf) | NTCP <br> OOBT <br> DACI <br> OD <br> FISCAL <br> CAE <br> DIRMAB | [X](PLOG0012A.docx) | [X](PLOG0012A.bpm) |
 | [PLOG0013A - Confecção de RTL para ressuprimento de material nacionalizado](PLOG0013A.pdf) | NTPJ <br> NTCQ <br> NTCP  | [X](PLOG0013A.docx) | [X](PLOG0013A.bpm) | 
 | [PLOG0014A - Delimitação de valor de referência de material nacionalizado](PLOG0014A.pdf) | NTCP | [X](PLOG0014A.docx) | [X](PLOG0014A.bpm) |
-| PLOG0015A - Requisição de Norma Técnica | NTEC <br> NCCP | --- | [X](PLOG0015A.bpm) |
+| [PLOG0015A - Requisição de Norma Técnica](PLOG0015A.pdf) | NTEC <br> NCCP | [X](PLOG0015A.docx) | [X](PLOG0015A.bpm) |
 | PLOG0016A - Abertura e anexação em PTN | NTCP <br> NCCP | --- | [X](PLOG0016A.bpm) |
 | PLOG0018A - Arquivamento de Desenho e ADT | NTPJ | --- | [X](PLOG0018A.bpm) |
 | PLOG0019A - Implantação de número de série de material nacionalizado | NCCA <br> NTPLJ | --- | --- |
