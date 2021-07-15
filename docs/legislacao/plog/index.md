@@ -9,7 +9,7 @@
 | PLOG0005A - Alteração de Documentação Técnica | NTEC | --- | --- |
 | PLOG0006A - Gestão de certificação/qualificação de material nacionalizado | NQUA     | --- | --- |
 | PLOG0007A - Implantação de part number de material nacionalizado | NCCA | --- | --- |
-| PLOG0008A - Inspeção de material nacionalizado | NTCQ | --- | [X](PLOG0008A.bpm) |
+| [PLOG0008A - Inspeção de material nacionalizado](PLOG0008A.pdf) | NTCQ | [X](PLOG0008A.docx) | [X](PLOG0008A.bpm) |
 | PLOG0009A - Elaboração de plano de inspeção | NTCQ | --- | [X](PLOG0009A.bpm) |
 | PLOG0010A - Habilitação de fornecedor de produto nacionalizado | NQUA | --- | [X](PLOG0010A.bpm) |
 | [PLOG0011A - Homologação de ensaio de controle de qualidade de fornecedor](PLOG0011A.pdf) | NQUA | [X](PLOG0011A.docx) | [X](PLOG0011A.bpm) |
