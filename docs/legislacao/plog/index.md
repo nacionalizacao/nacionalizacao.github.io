@@ -18,7 +18,7 @@
 | [PLOG0014A - Delimitação de valor de referência de material nacionalizado](PLOG0014A.pdf) | NTCP | [X](PLOG0014A.docx) | [X](PLOG0014A.bpm) |
 | [PLOG0015A - Requisição de Norma Técnica](PLOG0015A.pdf) | NTEC <br> NCCP | [X](PLOG0015A.docx) | [X](PLOG0015A.bpm) |
 | [PLOG0016A - Abertura e anexação em PTN](PLOG0016A.pdf) | NTEC <br> NCCP | [X](PLOG0016A.docx) | [X](PLOG0016A.bpm) |
-| [PLOG0018A - Cadastro e arquivamento de Desenho e ADT](PLOG0018A.pdf) | NTPJ | [X](PLOG0018A.docx) | [X](PLOG0018A.bpm) |
+| [PLOG0018A - Cadastro e arquivamento de Desenhos](PLOG0018A.pdf) | NTPJ | [X](PLOG0018A.docx) | [X](PLOG0018A.bpm) |
 | PLOG0019A - Implantação de número de série de material nacionalizado | NCCA <br> NTPLJ | --- | --- |
 | PLOG0020A - Gestão de calibração de equipamentos da NNAQ | NTDM     | --- | [X](PLOG0020A.bpm) |
 | [PLOG0022A - Compilação de requisições de ressuprimento](PLOG0022A.pdf) | NTCP | [X](PLOG0022A.docx) | [X](PLOG0022A.bpm) |
