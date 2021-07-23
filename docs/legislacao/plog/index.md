@@ -6,9 +6,9 @@
 | [PLOG0002A - Gestão de índices de desempenho de ressuprimento de material nacionalizado](PLOG0002A.pdf) | NNAQ <br> NTCP | [X](PLOG0002A.docx) | [X](PLOG0002A.bpm) |
 | [PLOG0003A - Gestão de pedido de matéria prima](PLOG0003A.pdf) | NNAQ     | [X](PLOG0003A.docx) | [X](PLOG0003A.bpm) |
 | PLOG0004A - Processo técnico de nacionalização | NTEC | --- | --- |
-| PLOG0005A - Alteração de Documentação Técnica | NTEC | --- | --- |
-| PLOG0006A - Gestão de certificação/qualificação de material nacionalizado | NQUA     | --- | --- |
-| [PLOG0007A - Implantação de part number de material nacionalizado](PLOG0007A.pdf) | NCCA | [X](PLOG00007A.docx) | [X](PLOG0007.bpm) |
+| PLOG0005A - Elaboração de Projeto Técnico | NTEC | --- | --- |
+| PLOG0006A - Gestão de conformidade do primeiro produto | NQUA     | --- | --- |
+| [PLOG0007A - Implantação de material nacionalizao](PLOG0007A.pdf) | NCCA | [X](PLOG00007A.docx) | [X](PLOG0007.bpm) |
 | [PLOG0008A - Inspeção de material nacionalizado](PLOG0008A.pdf) | NTCQ | [X](PLOG0008A.docx) | [X](PLOG0008A.bpm) |
 | PLOG0009A - Elaboração de plano de inspeção | NTCQ | --- | [X](PLOG0009A.bpm) |
 | [PLOG0011A - Homologação de ensaio de controle de qualidade de fornecedor](PLOG0011A.pdf) | NQUA | [X](PLOG0011A.docx) | [X](PLOG0011A.bpm) |
@@ -16,7 +16,7 @@
 | [PLOG0013A - Confecção de RTL para ressuprimento de material nacionalizado](PLOG0013A.pdf) | NTPJ <br> NTCQ <br> NTCP  | [X](PLOG0013A.docx) | [X](PLOG0013A.bpm) | 
 | [PLOG0014A - Delimitação de valor de referência de material nacionalizado](PLOG0014A.pdf) | NTCP | [X](PLOG0014A.docx) | [X](PLOG0014A.bpm) |
 | [PLOG0015A - Requisição de Norma Técnica](PLOG0015A.pdf) | NTEC <br> NCCP | [X](PLOG0015A.docx) | [X](PLOG0015A.bpm) |
-| [PLOG0016A - Abertura e anexação em PTN](PLOG0016A.pdf) | NTEC <br> NCCP | [X](PLOG0016A.docx) | [X](PLOG0016A.bpm) |
+| [PLOG0016A - Abertura documental e anexação em PTN](PLOG0016A.pdf) | NTEC <br> NCCP | [X](PLOG0016A.docx) | [X](PLOG0016A.bpm) |
 | [PLOG0018A - Cadastro e arquivamento de Desenhos](PLOG0018A.pdf) | NTPJ | [X](PLOG0018A.docx) | [X](PLOG0018A.bpm) |
 | PLOG0019A - Implantação de número de série de material nacionalizado | NCCA <br> NTPLJ | --- | --- |
 | PLOG0020A - Gestão de calibração de equipamentos da NNAQ | NTDM     | --- | [X](PLOG0020A.bpm) |
