@@ -7,7 +7,7 @@
 | [PLOG0003A - Gestão de pedido de matéria prima](PLOG0003A.pdf) | NNAQ     | [X](PLOG0003A.docx) | [X](PLOG0003A.bpm) |
 | PLOG0004A - Processo técnico de nacionalização | NTEC | --- | --- |
 | PLOG0005A - Elaboração de Projeto Técnico | NTEC | --- | --- |
-| PLOG0006A - Gestão de conformidade do primeiro produto | NQUA     | --- | --- |
+| PLOG0006A - Gestão de conformidade do Projeto | NQUA     | --- | --- |
 | [PLOG0007A - Implantação de material nacionalizao](PLOG0007A.pdf) | NCCA | [X](PLOG00007A.docx) | [X](PLOG0007.bpm) |
 | [PLOG0008A - Inspeção de material nacionalizado](PLOG0008A.pdf) | NTCQ | [X](PLOG0008A.docx) | [X](PLOG0008A.bpm) |
 | [PLOG0009A - Elaboração de plano de inspeção](PLOG0009A.pdf) | NTCQ | [x](PLOG0009A.docx) | [X](PLOG0009A.bpm) |
@@ -17,6 +17,7 @@
 | [PLOG0014A - Delimitação de valor de referência de material nacionalizado](PLOG0014A.pdf) | NTCP | [X](PLOG0014A.docx) | [X](PLOG0014A.bpm) |
 | [PLOG0015A - Requisição de Norma Técnica](PLOG0015A.pdf) | NTEC <br> NCCP | [X](PLOG0015A.docx) | [X](PLOG0015A.bpm) |
 | [PLOG0016A - Abertura documental e anexação em PTN](PLOG0016A.pdf) | NTEC <br> NCCP | [X](PLOG0016A.docx) | [X](PLOG0016A.bpm) |
+| [PLOG0017A - Definição de requisitos iniciais de projeto](PLOG0017A.pdf) | NQUA | [X](PLOG0017A.docx) | [X](PLOG0017A.bpm) |
 | [PLOG0018A - Cadastro e arquivamento de Desenhos](PLOG0018A.pdf) | NTPJ | [X](PLOG0018A.docx) | [X](PLOG0018A.bpm) |
 | [PLOG0019A - Implantação de número de série de material nacionalizado](PLOG0019A.pdf) | NCCA <br> NTPLJ | [X](PLOG0019A.docx) | [X](PLOG0019A.bpm) |
 | PLOG0020A - Gestão de calibração de equipamentos da NNAQ | NTDM     | --- | [X](PLOG0020A.bpm) |
