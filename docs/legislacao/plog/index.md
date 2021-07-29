@@ -7,7 +7,7 @@
 | [PLOG0003A - Gestão de pedido de matéria prima](PLOG0003A.pdf) | NNAQ     | [X](PLOG0003A.docx) | [X](PLOG0003A.bpm) |
 | PLOG0004A - Processo técnico de nacionalização | NTEC | --- | --- |
 | PLOG0005A - Elaboração de Projeto Técnico | NTEC | --- | --- |
-| PLOG0006A - Gestão de conformidade do Projeto | NQUA     | --- | --- |
+| [PLOG0006A - Gestão de conformidade de projeto](PLOG0006A.pdf) | NQUA | [X](PLOG0006A.docx) | [X](PLOG0006A.bpm) |
 | [PLOG0007A - Implantação de material nacionalizao](PLOG0007A.pdf) | NCCA | [X](PLOG00007A.docx) | [X](PLOG0007.bpm) |
 | [PLOG0008A - Inspeção de material nacionalizado](PLOG0008A.pdf) | NTCQ | [X](PLOG0008A.docx) | [X](PLOG0008A.bpm) |
 | [PLOG0009A - Elaboração de plano de inspeção](PLOG0009A.pdf) | NTCQ | [x](PLOG0009A.docx) | [X](PLOG0009A.bpm) |
