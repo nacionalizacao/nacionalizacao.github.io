@@ -6,7 +6,7 @@
 | [PLOG0002A - Gestão de índices de desempenho de ressuprimento de material nacionalizado](PLOG0002A.pdf) | NNAQ <br> NTCP | [X](PLOG0002A.docx) | [X](PLOG0002A.bpm) |
 | [PLOG0003A - Gestão de pedido de matéria prima](PLOG0003A.pdf) | NNAQ     | [X](PLOG0003A.docx) | [X](PLOG0003A.bpm) |
 | [PLOG0004A - Processo técnico de nacionalização](PLOG0004A.pdf) | NTEC | [X](PLOG0004A.docx) | [X](PLOG0004A.bpm) |
-| PLOG0005A - Elaboração de Projeto Técnico | NTEC | --- | --- |
+| [PLOG0005A - Elaboração de Projeto Técnico](PLOG0005A.pdf) | NTEC | [X](PLOG0005A.docx) | [X](PLOG0005A.bpm) |
 | [PLOG0006A - Gestão de conformidade de projeto](PLOG0006A.pdf) | NQUA | [X](PLOG0006A.docx) | [X](PLOG0006A.bpm) |
 | [PLOG0007A - Implantação de material nacionalizado](PLOG0007A.pdf) | NCCA | [X](PLOG00007A.docx) | [X](PLOG0007.bpm) |
 | [PLOG0008A - Inspeção de material nacionalizado](PLOG0008A.pdf) | NTCQ | [X](PLOG0008A.docx) | [X](PLOG0008A.bpm) |
