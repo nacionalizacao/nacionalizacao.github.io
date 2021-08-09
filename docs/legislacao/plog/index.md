@@ -20,5 +20,5 @@
 | [PLOG0017A - Definição de requisitos iniciais de projeto](PLOG0017A.pdf) | NQUA | [X](PLOG0017A.docx) | [X](PLOG0017A.bpm) |
 | [PLOG0018A - Cadastro, edição e arquivamento de Desenhos](PLOG0018A.pdf) | NTPJ | [X](PLOG0018A.docx) | [X](PLOG0018A.bpm) |
 | [PLOG0019A - Implantação de número de série de material nacionalizado](PLOG0019A.pdf) | NCCA <br> NTPLJ | [X](PLOG0019A.docx) | [X](PLOG0019A.bpm) |
-| PLOG0020A - Gestão de calibração de equipamentos da NNAQ | NTDM     | --- | [X](PLOG0020A.bpm) |
+| [PLOG0020A - Gestão de calibração de equipamentos da NNAQ](PLOG0020A.pdf) | NTDM <br> NTCP | [X](PLOG0020A.docx) | [X](PLOG0020A.bpm) |
 | [PLOG0022A - Compilação de requisições de ressuprimento](PLOG0022A.pdf) | NTCP | [X](PLOG0022A.docx) | [X](PLOG0022A.bpm) |
