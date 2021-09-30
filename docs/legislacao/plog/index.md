@@ -16,7 +16,7 @@
 | [**PLOG0013A** - Confecção de RTL para ressuprimento de material nacionalizado](PLOG0013A.pdf) | NTPJ <br> NTCQ <br> NTCP  | [X](PLOG0013A.docx) | [X](PLOG0013A.bpm) | 
 | [PLOG0014A - Delimitação de valor de referência de material nacionalizado](PLOG0014A.pdf) | NTCP | [X](PLOG0014A.docx) | [X](PLOG0014A.bpm) |
 | [**PLOG0015A** - Requisição de Norma Técnica](PLOG0015A.pdf) | NTEC <br> NCCP | [X](PLOG0015A.docx) | [X](PLOG0015A.bpm) |
-| [PLOG0016A - Abertura documental e anexação em PTN](PLOG0016A.pdf) | NTEC <br> NCCP | [X](PLOG0016A.docx) | [X](PLOG0016A.bpm) |
+| [**PLOG0016A** - Abertura documental e anexação em PTN](PLOG0016A.pdf) | NTEC <br> NCCP | [X](PLOG0016A.docx) | [X](PLOG0016A.bpm) |
 | [PLOG0017A - Definição de requisitos iniciais de projeto](PLOG0017A.pdf) | NQUA | [X](PLOG0017A.docx) | [X](PLOG0017A.bpm) |
 | [**PLOG0018A** - Cadastro, edição e arquivamento de Desenhos](PLOG0018A.pdf) | NTPJ | [X](PLOG0018A.docx) | [X](PLOG0018A.bpm) |
 | [PLOG0019A - Implantação de número de série de material nacionalizado](PLOG0019A.pdf) | NCCA <br> NTPLJ | [X](PLOG0019A.docx) | [X](PLOG0019A.bpm) |
