@@ -12,7 +12,7 @@
 | [PLOG0008A - Inspeção de material nacionalizado](PLOG0008A.pdf) | NTCQ | [X](PLOG0008A.docx) | [X](PLOG0008A.bpm) |
 | [PLOG0009A - Elaboração de plano de inspeção](PLOG0009A.pdf) | NTCQ | [x](PLOG0009A.docx) | [X](PLOG0009A.bpm) |
 | [PLOG0011A - Homologação de ensaio de controle de qualidade de fornecedor](PLOG0011A.pdf) | NQUA | [X](PLOG0011A.docx) | [X](PLOG0011A.bpm) |
-| [PLOG0012A - Ressuprimento de material nacionalizado](PLOG0012A.pdf) | NTCP <br> OOBT <br> DACI <br> OD <br> FISCAL <br> CAE <br> DIRMAB | [X](PLOG0012A.docx) | [X](PLOG0012A.bpm) |
+| [**PLOG0012A** - Ressuprimento de material nacionalizado](PLOG0012A.pdf) | NTCP <br> OOBT <br> DACI <br> OD <br> FISCAL <br> CAE <br> DIRMAB | [X](PLOG0012A.docx) | [X](PLOG0012A.bpm) |
 | [**PLOG0013A** - Confecção de RTL para ressuprimento de material nacionalizado](PLOG0013A.pdf) | NTPJ <br> NTCQ <br> NTCP  | [X](PLOG0013A.docx) | [X](PLOG0013A.bpm) | 
 | [PLOG0014A - Delimitação de valor de referência de material nacionalizado](PLOG0014A.pdf) | NTCP | [X](PLOG0014A.docx) | [X](PLOG0014A.bpm) |
 | [**PLOG0015A** - Requisição de Norma Técnica](PLOG0015A.pdf) | NTEC <br> NCCP | [X](PLOG0015A.docx) | [X](PLOG0015A.bpm) |
